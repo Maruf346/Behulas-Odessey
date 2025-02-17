@@ -1,4 +1,4 @@
-# Behulas-Odessey
+# Behula's-Odessey
 
 ## Overview
 "Behula’s Odyssey" is a thrilling Java-based racing game where the player controls the raft of Behula, navigating through dangerous obstacles like snakes, crocodiles, and more. The game challenges players to improve their reflexes and decision-making skills while immersing them in the cultural heritage of the folk tale of Behula and Lakhindar. 
